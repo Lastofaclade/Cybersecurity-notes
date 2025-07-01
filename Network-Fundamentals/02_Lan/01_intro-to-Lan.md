@@ -23,3 +23,11 @@ A **topology** describes how devices are connected in a **Local Area Network (LA
 - Devices form a closed loop
 - Data travels in one direction
 - Failure of one device can affect the entire network
+
+# Switch
+A device that connects devices **within the same network (LAN)**.  
+It uses **MAC addresses** to send data **only to the correct device**, improving speed and efficiency.
+
+# Router
+A device that connects **multiple networks** together (e.g., your home network to the internet).  
+It uses **IP addresses** to **route traffic** between networks, deciding where data should go.
