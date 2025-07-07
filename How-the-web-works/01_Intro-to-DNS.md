@@ -40,9 +40,9 @@ There are two main types:
   - `.org` → Organizations  
   - `.net` → Networks  
   - `.edu` → Education  
-  - `.gov` → Government (US-based)
+  - `.za` → Government (SA-based)
 
-  #### 🆕 3. **New gTLDs** (Modern Custom Domains)
+  #### 3. **New gTLDs** (Modern Custom Domains)
 - Recently added to expand naming options
 - Examples:
   - `.tech`, `.xyz`, `.app`, `.blog`, `.security`
@@ -51,4 +51,4 @@ There are two main types:
 - This is the main name you register (owned by Google)
 
 ### 4️⃣ **Subdomain / Hostname**: 
-- 'main'.google.com
+- `main`.google.com
